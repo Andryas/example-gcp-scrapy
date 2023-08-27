@@ -1,0 +1,16 @@
+gaia/
+bkb/
+.DS_Store
+venv/
+.vscode/
+.scrapy/
+dev/
+__pycache__/
+.env
+dump/
+credentials.json
+R/
+pipeline/
+achieve/
+waurzenczak.json
+andryas.json
